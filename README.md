@@ -1,2 +1,2 @@
-# template-react-app
+# Template React App
 React App Template
