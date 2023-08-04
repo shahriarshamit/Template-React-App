@@ -1,0 +1,12 @@
+body {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.heading__one {
+    color: #ececec;
+    background-color: #cacaca;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
